@@ -1,7 +1,5 @@
 <h1 align="center">uchebnick</h1>
 
-<p align="center">Go • backend • storage • search</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/repos-21-111827?style=flat-square" alt="21 public repositories" />
   <img src="https://img.shields.io/badge/stars-24-111827?style=flat-square" alt="24 total stars" />
