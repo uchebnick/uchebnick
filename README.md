@@ -1,6 +1,7 @@
 <h1 align="center">uchebnick</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uchebnick&color=2F81F7" alt="Profile views for uchebnick" />
   <img src="https://img.shields.io/badge/repos-21-2F81F7" alt="21 public repositories" />
   <img src="https://img.shields.io/badge/stars-24-2F81F7" alt="24 total stars" />
   <img src="https://img.shields.io/badge/contributions%202026-441-2F81F7" alt="441 contributions in 2026" />
