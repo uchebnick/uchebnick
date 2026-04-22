@@ -7,6 +7,6 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uchebnick&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true&bg_color=00000000&text_color=9ca3af&title_color=2F81F7&icon_color=2F81F7&ring_color=2F81F7" alt="GitHub stats for uchebnick" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uchebnick&show_icons=true&hide_title=true&hide_border=true&count_private=true&disable_animations=true&bg_color=00000000&text_color=9ca3af&title_color=2F81F7&icon_color=2F81F7&ring_color=2F81F7" alt="GitHub stats for uchebnick" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchebnick&layout=compact&hide_border=true&bg_color=00000000&text_color=9ca3af&title_color=2F81F7" alt="Top languages for uchebnick" />
 </p>
