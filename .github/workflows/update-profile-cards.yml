@@ -13,12 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-node@v4
         with:
-          python-version: "3.x"
-      - run: python scripts/render_profile_cards.py
+          node-version: "22"
+      - run: git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git /tmp/github-readme-stats
+      - run: npm install --prefix /tmp/github-readme-stats --omit=dev --ignore-scripts
+      - run: node scripts/render_profile_cards.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GRS_DIR: /tmp/github-readme-stats
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
