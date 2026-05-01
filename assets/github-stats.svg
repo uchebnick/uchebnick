@@ -1,0 +1,52 @@
+<svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>uchebnick's GitHub Stats, Rank: B+</title>
+  <desc>Total Stars Earned: 31, Total Commits (last year): 286, Total PRs: 143, Total Issues: 62, Contributed to (last year): 26</desc>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2F81F7; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #9ca3af; }
+    .bold { font-weight: 700; }
+    .icon { font: 16px 'Segoe UI Symbol', 'Apple Color Emoji', sans-serif; fill: #2F81F7; }
+    .rank-text { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9ca3af; }
+    .rank-circle-rim { stroke: #2F81F7; fill: none; stroke-width: 6; opacity: .2; }
+    .rank-circle { stroke: #2F81F7; stroke-dasharray: 250; stroke-dashoffset: 112.85; fill: none; stroke-width: 6; stroke-linecap: round; transform-origin: -10px 8px; transform: rotate(-90deg); opacity: .8; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" height="194" width="466" fill="#00000000" stroke="none"/>
+  <text x="25" y="35" class="header">uchebnick's GitHub Stats</text>
+  <g transform="translate(0,67)">
+    
+    <g transform="translate(25,0)">
+      <text x="0" y="0" class="icon">*</text>
+      <text class="stat bold" x="25" y="0">Total Stars Earned:</text>
+      <text class="stat bold" x="219" y="0">31</text>
+    </g>
+    
+    <g transform="translate(25,25)">
+      <text x="0" y="0" class="icon">C</text>
+      <text class="stat bold" x="25" y="0">Total Commits (last year):</text>
+      <text class="stat bold" x="219" y="0">286</text>
+    </g>
+    
+    <g transform="translate(25,50)">
+      <text x="0" y="0" class="icon">P</text>
+      <text class="stat bold" x="25" y="0">Total PRs:</text>
+      <text class="stat bold" x="219" y="0">143</text>
+    </g>
+    
+    <g transform="translate(25,75)">
+      <text x="0" y="0" class="icon">!</text>
+      <text class="stat bold" x="25" y="0">Total Issues:</text>
+      <text class="stat bold" x="219" y="0">62</text>
+    </g>
+    
+    <g transform="translate(25,100)">
+      <text x="0" y="0" class="icon">R</text>
+      <text class="stat bold" x="25" y="0">Contributed to (last year):</text>
+      <text class="stat bold" x="219" y="0">26</text>
+    </g>
+    <g transform="translate(390.5,47.5)">
+      <circle class="rank-circle-rim" cx="-10" cy="8" r="40"/>
+      <circle class="rank-circle" cx="-10" cy="8" r="40"/>
+      <text x="-10" y="13" text-anchor="middle" class="rank-text">B+</text>
+    </g>
+  </g>
+</svg>
