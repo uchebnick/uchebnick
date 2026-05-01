@@ -8,6 +8,6 @@
 </p>
 
 <p align="center">
-  <img height="165" src="./assets/github-stats.svg" alt="GitHub stats for uchebnick" />
-  <img height="165" src="./assets/top-langs.svg" alt="Top languages for uchebnick" />
+  <img height="165" src="./assets/github-readme-stats.svg" alt="GitHub stats for uchebnick" />
+  <img height="165" src="./assets/github-readme-top-langs.svg" alt="Top languages for uchebnick" />
 </p>

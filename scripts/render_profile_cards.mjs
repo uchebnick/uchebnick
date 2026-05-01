@@ -152,10 +152,10 @@ const languageOptions = {
 
 await fs.mkdir(assets, { recursive: true });
 await fs.writeFile(
-  path.join(assets, "github-stats.svg"),
+  path.join(assets, "github-readme-stats.svg"),
   renderStatsCard(stats, cardOptions),
 );
 await fs.writeFile(
-  path.join(assets, "top-langs.svg"),
+  path.join(assets, "github-readme-top-langs.svg"),
   renderTopLanguages(collectLanguages(repositories), languageOptions),
 );
